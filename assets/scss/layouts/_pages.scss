@@ -38,3 +38,10 @@ p.meta {
   margin-top: 0.5rem;
   font-size: $font-size-base;
 }
+
+td, th, tr{
+  border-style: solid;
+}
+td, th {
+  padding: 0.5em;
+}
