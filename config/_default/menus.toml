@@ -7,7 +7,7 @@
 [[docs]]
   name = "File Spec"
   weight = 30
-  identifier = "File Spec"
+  identifier = "file-spec"
 
 # [[docs]]
 #   name = "Help"
