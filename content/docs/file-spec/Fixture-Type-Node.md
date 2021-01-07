@@ -1,5 +1,5 @@
 ---
-title: "Fixture Type Node Documentation"
+title: "Fixture Type Node"
 description: "This page describes allowed values in the description.xml file that is bundled with a GDTF."
 lead: "This page describes allowed values in the description.xml file that is bundled with a GDTF."
 date: 2020-10-06T08:48:57+00:00

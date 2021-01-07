@@ -1,5 +1,5 @@
 ---
-title: "Supported Protocol Collection Documentation"
+title: "Supported Protocol Collection"
 description: "This page describes allowed supported protocol values in the description.xml file that is bundled with a GDTF."
 lead: "This page describes allowed supported protocol values in the description.xml file that is bundled with a GDTF."
 date: 2021-01-06T08:48:57+00:00

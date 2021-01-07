@@ -1,5 +1,5 @@
 ---
-title: "Wheel Collect"
+title: "Wheel Collection"
 description: "This section defines all physical or virtual wheels of the device."
 lead: "This section defines all physical or virtual wheels of the device."
 date: 2020-10-06T08:48:57+00:00

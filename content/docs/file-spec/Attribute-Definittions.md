@@ -1,5 +1,5 @@
 ---
-title: "Attribute Documentation"
+title: "Attribute Definitions"
 description: "This page describes the attributes found in the description.xml file that is bundled with a GDTF."
 lead: "This page describes the attributes found in the description.xml file that is bundled with a GDTF."
 date: 2020-10-06T08:48:57+00:00
