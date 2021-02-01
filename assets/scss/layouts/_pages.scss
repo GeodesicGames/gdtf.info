@@ -40,8 +40,12 @@ p.meta {
 }
 
 td, th, tr{
-  border-style: solid;
+  border: 1px solid #333;
 }
 td, th {
-  padding: 0.5em;
+  padding: 0.4em;
+}
+
+blockquote {
+  margin-top: 1.25em;
 }
