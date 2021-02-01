@@ -39,11 +39,17 @@ p.meta {
   font-size: $font-size-base;
 }
 
-td, th, tr{
+td, th, tr {
   border: 1px solid #333;
 }
+
 td, th {
   padding: 0.4em;
+}
+
+table {
+  margin-bottom: 1em;
+  margin-top: 1em;
 }
 
 blockquote {
