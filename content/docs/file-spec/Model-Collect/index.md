@@ -38,16 +38,16 @@ The device shall be drawn in a hanging position displaying the front view; the p
 
 The metric system consists of the Right-handed Cartesian Coordinates XYZ: X – from left (−X) to right (+X), Y – from the outside of the monitor (−Y) to the inside of the monitor (+Y), Z – from bottom (−Z) to top (+Z). 0,0,0 – center base plate (see the following image).
 
-{{< figure src="/HangingFixtureExample.png" alt="Hanging Fixture Example" class="border-0" >}}
+{{< figure src="HangingFixtureExample.png" alt="Hanging Fixture Example" class="border-0" >}}
 
 The mesh of each fixture part shall be drawn around its own suspension point. The zero point of a device does not necessarily have to contain the offset related to the yoke, but it must be centered on its axis of rotation. The offset is defined by the geometry and has to be related to its parent geometry and not to the base.
 
 > NOTE In general, the offsets are mostly negative, because the device is displayed in a hanging position.
 
-{{< figure src="/FixtureOffsetPartsExample.png" alt="Fixture Parts Offset" class="border-0" >}}
+{{< figure src="FixtureOffsetPartsExample.png" alt="Fixture Parts Offset" class="border-0" >}}
 
 In the image above, the green arrow displays the offset of the yoke related to the base. The magenta arrow displays the offset of the head related to the yoke. The offsets are to be defined by the position matrix of the according geometry (See the Geometry Section). It is important that the axis of rotation of each device part is exactly positioned (see the image below).
 
-{{< figure src="/FixtureRotationAxes.png" alt="Fixture Rotation Axes" class="border-0" >}}
+{{< figure src="FixtureRotationAxes.png" alt="Fixture Rotation Axes" class="border-0" >}}
 
 The dimension XML attributes of model (see table above) are always used, no matter the scaling and ratio of the 3ds file. The mesh is explicitly scaled to this dimension. The length defines the dimension of the model on the X axis, the width on the Y axis and the height on the Z axis.

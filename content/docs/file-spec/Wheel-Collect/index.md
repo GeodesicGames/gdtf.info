@@ -74,4 +74,4 @@ This section can only be defined for the animation system disk and it describes 
 
 Here is an example of AnimationSystem.
 
-{{< figure src="/AnimationExample.png" alt="Animateion Example" class="border-0" >}}
+{{< figure src="AnimationExample.png" alt="Animateion Example" class="border-0" >}}
