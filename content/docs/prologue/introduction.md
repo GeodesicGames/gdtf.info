@@ -23,7 +23,8 @@ GDTF files can be found on:
 
 * [gdtf-share](https://gdtf-share.com)
 * [NRG Sille](https://www.nrgsille.com/downloads?Collection=GDTF+included)
-* [Geodesic git repository](https://www.nrgsille.com/downloads?Collection=GDTF+included)
+* [Open GDTF Library](https://github.com/heliostate/OpenGDTFLibrary)
+* If you know of others, feel free to [update this page](https://github.com/heliostate/OpenGDTFLibrary)
 
 You can also export some GDTF files from Vectorworks and MA3.
 
@@ -34,7 +35,7 @@ Currently, you can use the [fixture builder on gdtf-share](https://fixturebuilde
 
 ## Contributing
 
-If you would like to contribute to this site or have GDTFs to share with the community feel free to open pull requests at [this site's repository](https://github.com/GeodesicGames/GDTFLibrary) or the [GDTF library repository](https://github.com/GeodesicGames/gdtf.info)
+If you would like to contribute to this site, feel free to open pull requests at [this site's repository](https://github.com/GeodesicGames/gdtf.info). If you have GDTFs to share with the community share them at the [Open GDTF Library](https://github.com/heliostate/OpenGDTFLibrary).
 
 ## Original text from the spec
 Nowadays lighting fixtures (luminaires and other controllable devices) have become more and more complex. Additionally, the development of these devices has become faster than ever. New devices are designed with very complex structures and multiple instances, they have more complex color-mixing systems and mode dependencies. To give the user access to the enormous flexibility of the existing devices a way to provide the accurate Fixture Type data is needed to control and pre-visualize the particular devices as good as possible and as quickly as needed. GDTF is that measure. There are many different lighting consoles and software manufacturers on the market and all of them are using different ways and different file formats to get the fixture control information into their systems. As the development of new high-end fixtures takes place at an amazing speed, this creates a ‘lack’ of available control data on the side of the console and pre-visualization software manufacturers. Also, fixture manufacturers are often approached by their clients directly to support them with accurate fixture types. As there are so many different consoles and visualizers on the market this process requires vast knowledge of many different systems. Fixture manufacturers would need to understand how every console or visualizer works, and how to provide the required data. Moreover, a way of format description is needed that not only allows to provide all of the required control information, but also structures it already in a hierarchical way that follows the structure of the device to be described. The lighting designer who would like to use these devices has to deal with such obstacles. They often receive the device control data of a specific new fixture later than expected. Also, the data can be incomplete, because it was not created with the latest information needed from the manufacturer of the fixture. This very clearly demonstrates that our industry is missing a standardized way of defining the description of intelligent and complex devices.
