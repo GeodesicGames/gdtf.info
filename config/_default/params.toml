@@ -3,8 +3,8 @@
 ## Homepage
 title = "GDTF"
 titleSeparator = "-"
-titleAddition = "An open standard for defining lighting fixtures"
-description = "GDTF is an open standard for defining lighting fixtures. This site provides documentation about the format."
+titleAddition = "An open standard for describing devices of the ligting industry"
+description = "GDTF is an open standard for describing devices of the ligting industry. This site provides documentation about the format."
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
